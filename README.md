@@ -57,3 +57,8 @@ Após a submissão do app, analisaremos:
 
 - Covide19api ([https://covid19api.com/](https://covid19api.com/)) - [Documentação](https://documenter.getpostman.com/view/10808728/SzS8rjbc)
 - O App deverá utilizar Flutter/Dart
+
+### 6. Sugestão de ferramentas para organização do projeto
+
+- GitFlow: https://github.com/nvie/gitflow
+- Convetional Commit: https://www.conventionalcommits.org/en/v1.0.0/

@@ -62,3 +62,7 @@ Após a submissão do app, analisaremos:
 
 - GitFlow: https://github.com/nvie/gitflow
 - Convetional Commit: https://www.conventionalcommits.org/en/v1.0.0/
+
+### 7. Sobre entrega do projeto
+- Realizar a hospedagem do repositório no Github e enviar acesso, dentro do prazo, aberto ao email: jorge@trakto.io
+- Realizar fork deste repositório e utiliza-lo ao seu projeto;

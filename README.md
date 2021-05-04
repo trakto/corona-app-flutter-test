@@ -21,13 +21,17 @@ Para a tela de acompanhamento da evolução do coronavírus em outros países:
 - Realizar a listagem de todos os países, em ordem alfabética para que ao usuário selecionar, apresentar uma tela com:
     - Seção da tela onde destaca a quantidade de novos casos confirmados, novas mortes. e novos casos recuperados do dia anterior;
     - Baseado na comparação do período anterior, a cor de UI do app deve mudar de acordo com a gravidade da situação. Por exemplo, se o dia atual houveram mais mortes que o anterior a UI deve apresentar uma cor diferente para que o cidadão possa analisar a gravidade da situação baseado na UX do app;
-    - Seção da tela com a listagem de novos casos conformados e mortes. Cada item da listagem deve ter uma comparação "percentual" da diferença em relação ao dia anterior. Para o componente com o "percentual" apresentar diferenciação de cor quanto o aumento ou diminuição de novos casos;
+    - Seção da tela com a listagem de novos casos conformados e mortes. **Cada item da listagem deve ter uma comparação "percentual" da diferença em relação ao dia anterior. Para o componente com o "percentual" apresentar diferenciação de cor quanto o aumento ou diminuição de novos casos;**
+    - Permitir reordenação da lista pelas seguintes opções: 
+        - Ordem alfabética
+        - Número de casos confirmados
+        - Número de mortes
 
 **Objetivo 3) Definir outro país como padrão**
 
 Para permitir que cidadão naturalizados possam acompanhar facilmente a evolução do Coronavírus do país de origem:
 
-- Permitir com que o usuário possa definir outro país como padrão do app: Ao realizar esta escolha, a tela inicial do app apresentará as informações do país escolhido;
+- Permitir com que o usuário possa definir outro país como padrão do app: ao realizar esta escolha, a tela inicial do app apresentará as informações do país escolhido;
 - Para países diferentes do Brasil, o idioma do app deverá ser alterado para en-US (inglês)
 
 **2.1) Objetivos que serão considerados como "Plus"**
@@ -49,20 +53,20 @@ Após a submissão do app, analisaremos:
 4. Criatividade e resolução de problemas de UI/UX;
 5. Recursos para melhorar a perfomance da aplicação: paginação em listagens, lazy loading, controle de estado reativo e outros recursos que melhorem a usabilidade e perfomance;
 
-### 4. Prazo de entrega de entrega proposto
+### 4. Prazo de entrega proposto
 
 1 semana após a aprovação da realização do teste.
 
 ### 5. Recurso a ser utilizado
 
 - Covide19api ([https://covid19api.com/](https://covid19api.com/)) - [Documentação](https://documenter.getpostman.com/view/10808728/SzS8rjbc)
-- O App deverá utilizar Flutter/Dart
+- O App deverá utilizar Flutter/Dart 2+
 
 ### 6. Sugestão de ferramentas para organização do projeto
 
 - GitFlow: https://github.com/nvie/gitflow
 - Convetional Commit: https://www.conventionalcommits.org/en/v1.0.0/
 
-### 7. Sobre entrega do projeto
+### 7. Sobre a entrega do projeto
 - Realizar a hospedagem do repositório no Github e enviar acesso, dentro do prazo, aberto ao email: jorge@trakto.io
 - Realizar fork deste repositório e utiliza-lo ao seu projeto;
